@@ -1,3 +1,2 @@
-# This is my new repoS
+# This is my new repo
 # This is a new feature
-S
